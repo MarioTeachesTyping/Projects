@@ -1,5 +1,5 @@
 # Academic
 Putting past or current assignments in this repo.
 
-## COP1000
+### COP1000
 Intro to Programming
