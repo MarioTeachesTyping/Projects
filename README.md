@@ -21,3 +21,6 @@ Computer Science II
 
 ### COP 3402
 Systems Software
+
+### CIS 3360
+Security in Computing
